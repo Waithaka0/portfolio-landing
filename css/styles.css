@@ -14,6 +14,7 @@ p {
 }
 h2 {
   text-align: center;
+  font-weight: bold;
 }
 .skills {
   font-family: sans-serif;
@@ -23,4 +24,11 @@ h2 {
   font-family: sans-serif;
   color: purple;
   font-style: italic;
+}
+img {
+  float: inherit;
+}
+.test-box {
+  border: 2.5px solid black;
+  padding: 6px;
 }
